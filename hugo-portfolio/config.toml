@@ -1,0 +1,6 @@
+baseURL = 'https://papercircuit.github.io/'
+languageCode = 'en-us'
+title = 'Kenny Johnson Portfolio'
+theme = 'terminal'
+
+
